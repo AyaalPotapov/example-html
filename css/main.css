@@ -1,0 +1,40 @@
+body {
+   font-family: sans-serif;
+   font-style: italic;
+   background-color: rgb(35, 34, 34);
+   color: aliceblue;
+   width: 80%;
+   margin: 0 auto;
+}
+.news article h3 {
+   color: rgb(201, 10, 112);
+}
+
+.news section > h2 {
+   color: rgb(51, 10, 201);
+   
+}
+
+.news h2 {
+   font-size: xx-large;
+}
+.news {
+   display: inline-block;
+   padding: 20px 40px;
+
+
+   font-weight: bold;
+   font-size: 20px;
+   text-align: center;
+
+   border: 1px solid #bbb;
+   border-radius: 50px 0;
+}
+#main {
+   color: red;
+}
+
+.advantages h2 {
+   color: aqua;
+}
+
